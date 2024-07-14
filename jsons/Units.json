@@ -1,17 +1,43 @@
 [
-	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+    {
+        "name": "Divine Archers",
+        "unitType": "Ranged",
+        "uniqueTo": "Ummah of Muhammad",
+        "replaces": "Crossbowman",
+        "movement": 3,
+        "strength": 60,
+        "rangedStrength": 50,
+        "range": 3,
+        "cost": 150,
+        "requiredTech": "Machinery",
+        "requiredResource": "Iron",
+        "promotions": ["Logistics", "Accuracy I", "Range"],
+        "attackSound": "archer"
+    },
+    {
+        "name": "Guardian Cavalry",
+        "unitType": "Mounted",
+        "uniqueTo": "Ummah of Muhammad",
+        "replaces": "Knight",
+        "movement": 5,
+        "strength": 80,
+        "cost": 180,
+        "requiredTech": "Chivalry",
+        "requiredResource": "Horses",
+        "promotions": ["Blitz", "Charge", "March"],
+        "attackSound": "cavalry"
+    },
+    {
+        "name": "Celestial Swordsmen",
+        "unitType": "Melee",
+        "uniqueTo": "Ummah of Muhammad",
+        "replaces": "Swordsman",
+        "movement": 4,
+        "strength": 70,
+        "cost": 120,
+        "requiredTech": "Iron Working",
+        "requiredResource": "Iron",
+        "promotions": ["Shock I", "Shock II", "March"],
+        "attackSound": "sword"
+    }
 ]
