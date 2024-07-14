@@ -1,38 +1,29 @@
-[
-	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+{
+    "name": "Ummah of Muhammad",
+    "leaderName": "Muhammad",
+    "adjective": ["Muhammadan"],
+    "startBias": ["Desert"],
+    "preferredVictoryType": "Cultural",
+    "personality": "Diplomatic and Wise",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+    "startIntroPart1": "O Prophet Muhammad, Seal of the Prophets, your wisdom and faith have gathered around you a community united in its diversity. Under your guidance, the Ummah of Muhammad grew rapidly, embracing a vast array of cultures and ideas, and spreading a message of peace, knowledge, and unity.",
+    "startIntroPart2": "O Messenger of God, will you lead your Ummah to a golden age of enlightenment and harmony? Can the principles of justice and moral integrity you have taught guide your people to become a beacon of light for all humanity?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
-]
+    "declaringWar": "Only as a last resort shall we take up arms, to defend the peace and justice of our community.",
+    "attacked": "We stand firm in our resolve, for every trial is a test of our unity and faith.",
+    "defeated": "Though we may face setbacks, our spirit and mission will endure beyond all trials.",
+    "introduction": "Peace be upon you, I am Muhammad, a humble servant of God and a messenger to mankind. Let our meeting be fruitful in good and understanding.",
+
+    "neutralHello": "Greetings in peace.",
+    "hateHello": "Why do we meet under such circumstances?",
+
+    "tradeRequest": "Let this deal be a testament to our mutual respect and prosperity.",
+
+    "outerColor": [139, 69, 19],
+    "innerColor": [255, 235, 205],
+    "favoredReligion": "Islam",
+    "uniqueName": "The Hijra",
+    "uniques": ["+1 Faith from each trade route with a different civilization", "+20% Production towards buildings that provide Faith or Culture"],
+    "cities": ["Medina", "Mecca", "Taif", "Tabuk", "Quba", "Khaibar", "Yathrib"],
+    "spyNames": ["Zaid", "Bilal", "Ali", "Fatima", "Khadija", "Abu Bakr", "Umar"]
+}
