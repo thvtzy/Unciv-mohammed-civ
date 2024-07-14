@@ -24,6 +24,5 @@
     "favoredReligion": "Islam",
     "uniqueName": "The Hijra",
     "uniques": ["+1 Faith from each trade route with a different civilization", "+20% Production towards buildings that provide Faith or Culture"],
-    "cities": ["Medina", "Mecca", "Taif", "Tabuk", "Quba", "Khaibar", "Yathrib"],
-    "spyNames": ["Zaid", "Bilal", "Ali", "Fatima", "Khadija", "Abu Bakr", "Umar"]
+    "cities": ["Medina", "Mecca", "Taif", "Tabuk", "Quba", "Khaibar", "Yathrib"]
 }
