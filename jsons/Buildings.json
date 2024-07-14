@@ -1,25 +1,37 @@
 [
-	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	}
+    {
+        "name": "House of Supreme Wisdom",
+        "replaces": "Library",
+        "uniqueTo": "Ummah of Muhammad",
+        "cost": 80,
+        "science": 10,
+        "culture": 5,
+        "maintenance": 0,
+        "requiredTech": "Writing",
+        "uniques": ["Provides two free Great Scientists when built", "+100% science from trade routes", "+20% culture in this city"]
+    },
+    {
+        "name": "Imperial Caravanserai",
+        "replaces": "Market",
+        "uniqueTo": "Ummah of Muhammad",
+        "cost": 100,
+        "gold": 10,
+        "maintenance": 0,
+        "happiness": 4,
+        "requiredTech": "Currency",
+        "uniques": ["+5 Gold from all trade routes", "+2 additional Gold from each desert tile worked by the city", "Provides +1 Happiness for every trade route"]
+    },
+    {
+        "name": "Great Mosque of Unity",
+        "replaces": "Temple",
+        "uniqueTo": "Ummah of Muhammad",
+        "cost": 150,
+        "faith": 12,
+        "culture": 4,
+        "maintenance": 1,
+        "isNationalWonder": true,
+        "requiredBuildingInAllCities": "Shrine",
+        "requiredTech": "Philosophy",
+        "uniques": ["+50% Faith in all cities", "+2 Happiness for every city following this religion", "Acts as a Courthouse in the city where it is built"]
+    }
 ]
