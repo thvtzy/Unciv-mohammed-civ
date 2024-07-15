@@ -1,4 +1,4 @@
-# Unciv - Ummah of Muhammad Civilization Mod
+# Unciv - Ummah of Muhammad Civilization Mod (incomplete)
 
 Welcome to the Unciv mod for the "Ummah of Muhammad" civilization! This mod introduces a powerful new civilization led by the Prophet Muhammad, featuring unique and overpowered units and buildings to enhance your gameplay experience.
 
