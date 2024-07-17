@@ -1,37 +1,71 @@
 [
     {
-        "name": "House of Supreme Wisdom",
-        "replaces": "Library",
-        "uniqueTo": "Ummah of Muhammad",
-        "cost": 80,
-        "science": 10,
-        "culture": 5,
-        "maintenance": 0,
-        "requiredTech": "Writing",
-        "uniques": ["Provides two free Great Scientists when built", "+100% science from trade routes", "+20% culture in this city"]
+        "name": "Mosque",
+        "culture": 2,
+        "faith": 5,
+        "happiness": 2,
+        "uniques": [
+            "Unbuildable", "Unsellable",
+            "Acts as a hub for community and spiritual growth",
+            "Hidden when religion is disabled",
+            "[+10]% Culture in city with established trade route"
+        ]
     },
     {
-        "name": "Imperial Caravanserai",
-        "replaces": "Market",
-        "uniqueTo": "Ummah of Muhammad",
-        "cost": 100,
-        "gold": 10,
-        "maintenance": 0,
-        "happiness": 4,
-        "requiredTech": "Currency",
-        "uniques": ["+5 Gold from all trade routes", "+2 additional Gold from each desert tile worked by the city", "Provides +1 Happiness for every trade route"]
+        "name": "Madrasah",
+        "culture": 3,
+        "faith": 4,
+        "science": 2,
+        "happiness": 1,
+        "uniques": [
+            "Unbuildable", "Unsellable",
+            "Provides education and religious teachings",
+            "Hidden when religion is disabled",
+            "[+1 Science] from every [Mosque] in this city"
+        ]
     },
     {
-        "name": "Great Mosque of Unity",
-        "replaces": "Temple",
-        "uniqueTo": "Ummah of Muhammad",
-        "cost": 150,
-        "faith": 12,
-        "culture": 4,
-        "maintenance": 1,
-        "isNationalWonder": true,
-        "requiredBuildingInAllCities": "Shrine",
-        "requiredTech": "Philosophy",
-        "uniques": ["+50% Faith in all cities", "+2 Happiness for every city following this religion", "Acts as a Courthouse in the city where it is built"]
+        "name": "Bazaar",
+        "culture": 2,
+        "gold": 4,
+        "uniques": [
+            "Unbuildable", "Unsellable",
+            "Enhances trade and economic growth",
+            "[+1 Gold] from each trade route passing through or originating from this city",
+            "[+2 Gold] from luxury resources in this city"
+        ]
+    },
+    {
+        "name": "Caravanserai",
+        "culture": 1,
+        "gold": 3,
+        "uniques": [
+            "Unbuildable", "Unsellable",
+            "Supports overland trade and provides rest for travelers and traders",
+            "[+20]% Gold from land trade routes originating from this city"
+        ]
+    },
+    {
+        "name": "Hammam",
+        "culture": 1,
+        "happiness": 3,
+        "health": 2,
+        "uniques": [
+            "Unbuildable", "Unsellable",
+            "Provides public baths for sanitation and relaxation",
+            "[+10]% Health in this city"
+        ]
+    },
+    {
+        "name": "Minaret",
+        "culture": 2,
+        "faith": 3,
+        "happiness": 1,
+        "uniques": [
+            "Unbuildable", "Unsellable",
+            "Symbolizes Islamic architecture and spirituality",
+            "[+15]% Faith generation in city",
+            "Enhances city's skyline and cultural identity"
+        ]
     }
 ]
