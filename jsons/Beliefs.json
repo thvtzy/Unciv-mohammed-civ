@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Shahada",
+        "type": "Core Belief",
+        "uniques": ["Profession of faith asserting the oneness of God and the prophethood of Muhammad"]
+    },
+    {
+        "name": "Salat",
+        "type": "Core Belief",
+        "uniques": ["[+5 Faith] from every [Mosque], mandatory daily prayers performed five times a day"]
+    },
+    {
+        "name": "Zakat",
+        "type": "Core Belief",
+        "uniques": ["Mandatory almsgiving, [+2 Gold, +1 Happiness] from every [Market] [in cities following this religion]"]
+    },
+    {
+        "name": "Sawm",
+        "type": "Core Belief",
+        "uniques": ["Fasting during the month of Ramadan, [+1 Faith, +1 Health] from every [Granary]"]
+    },
+    {
+        "name": "Hajj",
+        "type": "Core Belief",
+        "uniques": ["Pilgrimage to Mecca, [+3 Culture, +3 Faith] [in capital] when completed at least once"]
+    },
+    {
+        "name": "Jihad",
+        "type": "Social Belief",
+        "uniques": ["Striving in the way of God, [+2 Strength] for units [when fighting in foreign lands]"]
+    },
+    {
+        "name": "Ummah",
+        "type": "Social Belief",
+        "uniques": ["Community of believers, [+1 Happiness] from every [Courthouse] [in cities following this religion]"]
+    },
+    {
+        "name": "Shura",
+        "type": "Governance Belief",
+        "uniques": ["Consultative decision-making, [+1 Culture] from every [Council] [in cities following this religion]"]
+    },
+    {
+        "name": "Tawhid",
+        "type": "Doctrinal Belief",
+        "uniques": ["Belief in the oneness of God, [+2 Faith] from every [Temple]"]
+    },
+    {
+        "name": "Quran",
+        "type": "Cultural Belief",
+        "uniques": ["Holy Scripture, [+1 Culture, +1 Science] from every [Library]"]
+    },
+    {
+        "name": "Sunni",
+        "type": "Sect",
+        "uniques": ["Largest branch of Islam, [+1 Happiness, +1 Faith] from every [Market]"]
+    },
+    {
+        "name": "Shi'a",
+        "type": "Sect",
+        "uniques": ["Branch of Islam, [+2 Faith, -1 Happiness] from every [Barracks], special reverence for Ali"]
+    }
+]
