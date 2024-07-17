@@ -1,0 +1,73 @@
+[
+    {
+        "name": "Scholarly",
+        "friendBonusUniques": [
+            "[+2 Science] <before the [Medieval era]>",
+            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+6 Science] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques": [
+            "[+4 Science] <before the [Medieval era]>",
+            "[+8 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+12 Science] <starting from the [Industrial era]>"
+        ],
+        "color": [125,99,255]
+    },
+    {
+        "name": "Trade Hub",
+        "friendBonusUniques": [
+            "[+3 Gold] [in capital]"
+        ],
+        "allyBonusUniques": [
+            "[+5 Gold] [in capital]",
+            "[+2 Gold] [in all cities]"
+        ],
+        "color": [255,185,15]
+    },
+    {
+        "name": "Religious Center",
+        "friendBonusUniques": [
+            "[+2 Faith] <before the [Classical era]>",
+            "[+4 Faith] <starting from the [Classical era]> <before the [Medieval era]>",
+            "[+6 Faith] <starting from the [Medieval era]> <before the [Renaissance era]>",
+            "[+8 Faith] <starting from the [Renaissance era]> <before the [Industrial era]>",
+            "[+10 Faith] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques": [
+            "[+4 Faith] <before the [Classical era]>",
+            "[+8 Faith] <starting from the [Classical era]> <before the [Medieval era]>",
+            "[+12 Faith] <starting from the [Medieval era]> <before the [Renaissance era]>",
+            "[+16 Faith] <starting from the [Renaissance era]> <before the [Industrial era]>",
+            "[+20 Faith] <starting from the [Industrial era]>"
+        ],
+        "color": [255,255,210]
+    },
+    {
+        "name": "Cultural Haven",
+        "friendBonusUniques": [
+            "[+2 Culture] <before the [Medieval era]>",
+            "[+4 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+6 Culture] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques": [
+            "[+4 Culture] <before the [Medieval era]>",
+            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+12 Culture] <starting from the [Industrial era]>"
+        ],
+        "color": [0,121,107]
+    },
+    {
+        "name": "Diplomatic Enclave",
+        "friendBonusUniques": [
+            "[+1 Diplomatic Favor] <before the [Medieval era]>",
+            "[+2 Diplomatic Favor] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+3 Diplomatic Favor] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques": [
+            "[+2 Diplomatic Favor] <before the [Medieval era]>",
+            "[+4 Diplomatic Favor] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+6 Diplomatic Favor] <starting from the [Industrial era]>"
+        ],
+        "color": [139,195,74]
+    }
+]
