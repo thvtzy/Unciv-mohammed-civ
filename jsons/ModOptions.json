@@ -1,0 +1,12 @@
+{
+    "constants": {
+        "maxLakeSize": 5,
+        "riverCountMultiplier": 0.02, // Increased to reflect the importance of rivers in Islamic civilization
+        "religionLimitBase": 1, // Increased base limit for religion to emphasize the importance of Islam
+        "religionLimitMultiplier": 1.5, // Increased multiplier to allow more religious growth
+        "unitSupplyPerPopulation": 12, // Adjusted to reflect the strategic importance of population in military supply
+        "pantheonBase": 20, // Increased base to reflect the significant role of early religious beliefs
+        "pantheonGrowth": 1 // Introduced growth to reflect the evolving nature of religious beliefs
+    },
+    "isBaseRuleset": true
+}
